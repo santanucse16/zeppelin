@@ -1,5 +1,15 @@
 -
-id: 0
+
+-
+
+- 
+  
+- 
+
+- 
+  
+
+id: 7
   name: "Sandip "
   surname: "Chakraborty"
   company: "Department Of CSE ,IIT Kharagpur,INDIA"
@@ -12,12 +22,3 @@ id: 0
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
--
-
-- 
-  
-- 
-
-- 
-  
-
