@@ -4,64 +4,43 @@ title:  "Call for Papers"
 date:   2020-07-21 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+International  Workshop on Societal Computing for the Internet of Things & You (SoCIeTY) 2020 will be held on Monday, January 7, 2020 (Full Day) at Jadavpur University, Kolkata - 700098. If you want to be part of this great event as a speaker you knocked at the good door.
 
-#### Presenters – who should speak at the DevFest Conference?
+#### Invited Talk: – who should speak at the SOCIETY 2020 WORKSHOP?
 
-* developers (freelance and hired)
-* companies developing software (apps, tools, frameworks etc.)
-* research institutions with Google relevant activities
-* companies, organisations and individuals using Google technologies
+Topic yet to be finalized by Dr. Sandip Chakraborty, Assistant Professor of Computer Science and Engineering, Indian Institute of Technology, Kharagpur
 
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
+#### Draft Call for Papers
 
-#### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
-
-##### Android
-
-__Google I/O 2014__
-
-* Material Design
-* Migration to ART
-* New Android Camera API
-* New Job Scheduler
-* Storage Access Framework
-* Elevation & Clipping
-
-__General__
-
-* Android Continuous Integration
-* Loaders, Cursor Adapters
-* Android Animations
-* Patterns in Android development
-
-##### Web
-
-* AngularJS (1x and 2.0)
-* Dart (AngularDart, server-side)
-* Polymer and WebComponents
-* Material Design in Web
-* ChromeOS (apps development)
-* Web Performance (tools, techniques, approaches)
+The purpose of the International Workshop on Societal Computing for the Internet of Things & You (SoCIeTY 2020)  is to provide a high profile, leading edge forum for academics, industrial professionals, educators and policy makers involved in the field to contribute, to disseminate the most innovative researches and developments of all aspects of societal computing using  Internet of Things (IoT), such as intelligent/smart objects , environments/spaces, and systems. The workshop discusses several new and challenging management & policy based societal issues which require new technological innovations.
+We welcome submissions that identify challenges, report experiences, and discuss progress towards design, solutions or vision/ideas of IoT which will help in contributions to describing techniques applied to real-world problems, novel networking architectures, system designs, and applications and interdisciplinary research involving integration of IoT devices (including wearables), mobile, edge and cloud resources and machine learning techniques with societal computation.
 
 
-##### Cloud
+##### The research topics covered by the workshop are (but not limited to):
 
-* Google Cloud Platform
-  * Compute Engine
-  * App Engine
-  * Storages (SQL, NoSQL, BigData)
-  * APIs
-* Go (as a language for a Cloud Ready Apps)
+* Pervasive/Ubiquitous Computing and Applications with IoT
+* Mobile Computing and Wireless Communications/Mobile Phone Sensing
+* Human Activity Sensing with IoT
+* Urban Computing with IoT
+* Environment Monitoring 
+* Assistive Living with IoT
+* Intelligent and self-organizing transportation networks & services
+* Healthcare Using IoT
+* Wearables sensors and actuators
+* Application of IoT in Crisis Scenarios/Management
 
+
+##### A description of the publicity and promotion plan
+##### Workshop potential website address (if available at the time of the proposal - will be required later if the workshop proposal is accepted)
+
+##### If appropriate, a description of past versions of the workshop, including the number of submitted and accepted papers, number of attendees, etc.
 
 #### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
+__Deadline__ is September 1, 2019
 
 __Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
+The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2019.<br/>
 
 #### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+Email organizers at [society@gdg.org.ua](mailto:society@gdg.org.ua)
