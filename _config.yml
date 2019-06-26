@@ -84,7 +84,7 @@ statisticBlock:
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersImage: "/people/sandip_iitkgp.jpeg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Invited Talk"
 rockstarSpeakersButtonText: ""
