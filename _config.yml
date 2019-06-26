@@ -263,7 +263,7 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "SOCIETY 2020"
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "Societal Computing is an integrated innovative interdisciplinary field which provides the techniques, theories, and research methodologies to address real-life societal problems and create technologies that directly impact the society.
+ - {title: "", image: "hackathon-0.png", details: "Societal Computing is an integrated innovative interdisciplinary field which provides the techniques, theories, and research methodologies to address real-life societal problems and create technologies that directly impact the society.
 
 The recent times have seen massive latitudinal and longitudinal growth in the reliance of society on the Internet of Things (IoT) based data-driven computation. This gives rise to a number of innovative and challenging management and policy-based societal issues which require new technological innovations.  The issues include platform based products, automated processes to address real-life problems through the use of computation. The primary motivation of the computer scientists in this domain is to make the world understand the global scenario which computation operates in and to create innovative technological solutions from this vantage point.
 
