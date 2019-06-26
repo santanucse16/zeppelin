@@ -57,7 +57,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "SoCIeTY <typeout> 2020"
+heroTitle: "SoCIeTY 2020"
 eventDate: "January, 2020"
 typeoutTextValues: '"", "", "", "", ""'
 typeoutFallback: "Season"
