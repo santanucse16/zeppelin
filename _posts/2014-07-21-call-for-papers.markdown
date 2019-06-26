@@ -31,6 +31,7 @@ We welcome submissions that identify challenges, report experiences, and discuss
 
 
 __A description of the publicity and promotion plan__
+
 __Workshop potential website address (if available at the time of the proposal - will be required later if the workshop proposal is accepted)__
 
 __If appropriate, a description of past versions of the workshop, including the number of submitted and accepted papers, number of attendees, etc.__
