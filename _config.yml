@@ -106,9 +106,9 @@ eventAddressCountry: "India"
 eventStartTime: "2020-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2020-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventPlaceCoordinates: "22.5611537, 88.41310194"
+mapCenterCoordinates: "22.5611537, 88.41310194"
+mapMobileCenterCoordinates: "22.5611537, 88.41310194"
 
 # Venue Block
 venueBlockTitle: "Venue"
