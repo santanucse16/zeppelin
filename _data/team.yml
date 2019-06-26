@@ -3,7 +3,7 @@
   name: "Prof. Niloy Ganguly"
   surname: "Department of CSE, IIT kharagpur, INDIA"
   title: "Workshop Chair"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: 
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -17,7 +17,7 @@
   name: "Prof. Anupam Basu"
   surname: "Director, NIT Durgapur"
   title: "Workshop Chair"
-  thumbnailUrl: OlehZasadnyy.jpg
+  thumbnailUrl: 
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -30,7 +30,7 @@
   name: "Prof.  Sajal K. Das"
   surname: "Daniel St. Clair Endowed Chair Professor, Computer Science"
   title: "Workshop Chair"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: 
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
