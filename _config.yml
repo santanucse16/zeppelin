@@ -45,10 +45,10 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Call for Papers"}
- - {permalink: "/schedule/", text: "Program Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/speakers/", text: "Invited Talk"}
  - {permalink: "/team/", text: "Committees"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/logistics/", text: "Venue Map"}
  - {permalink: "/hackathon/", text: "About Workshop"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
