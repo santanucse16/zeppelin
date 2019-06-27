@@ -8,10 +8,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "site", link: "http://www.iitkgp.ac.in/department/CS/faculty/cs-niloy"}
 - 
   id: 1
   name: "Prof. Anupam Basu"
@@ -23,18 +20,16 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "site", link: "https://nitdgp.ac.in/chairperson"}
 - 
   
   id: 2
   name: "Prof.  Sajal K. Das"
   surname: "Daniel St. Clair Endowed Chair Professor, Computer Science"
   title: "Workshop Chair"
-  thumbnailUrl: sajal.jpg
+  thumbnailUrl: Sajal.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "site", link: "https://cs.mst.edu/facultystaffandfacilities/das/"}
